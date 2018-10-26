@@ -8,10 +8,10 @@ O trabalho tem como objetivo aplicar os conceitos de Data Science. Para isso os 
 
 # Membros
 
-* ![Nome_imagem](link_da_imagem.png)
-* ![Nome_imagem](link_da_imagem.png)
-* ![Nome_imagem](link_da_imagem.png)
-* ![Nome_imagem](link_da_imagem.png)
+* ![André](Fast-Obesity/FO/img/andre-moreira.jpg)
+* ![Eulle](Fast-Obesity/FO/img/eulle-araujo.png)
+* ![Fernando](Fast-Obesity/FO/img/fernando-maciel.jpg)
+* ![Luis](Fast-Obesity/FO/img/luis-andrade.jpg)
 
 # FastFood x Obesity
 

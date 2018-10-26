@@ -7,11 +7,12 @@ O trabalho tem como objetivo aplicar os conceitos de Data Science. Para isso os 
  * [Fast Food Restaurants Across America](https://www.kaggle.com/datafiniti/fast-food-restaurants)
 
 # Membros
-
-* ![André](Fast-Obesity/FO/img/andre-moreira.jpg)
-* ![Eulle](Fast-Obesity/FO/img/eulle-araujo.png)
-* ![Fernando](Fast-Obesity/FO/img/fernando-maciel.jpg)
-* ![Luis](Fast-Obesity/FO/img/luis-andrade.jpg)
+<ul align=center>
+<img src="FO/img/andre-moreira.jpg" alt="André" width="130" height="130">
+<img src="FO/img/eulle-araujo.png" alt="Eule" width="130" height="130">
+<img src="FO/img/fernando-maciel.jpg" alt="Fernando" width="130" height="130">
+<img src="FO/img/luis-andrade.jpg" alt="Luis" width="130" height="130">
+</ul>
 
 # FastFood x Obesity
 

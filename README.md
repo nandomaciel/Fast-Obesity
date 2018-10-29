@@ -8,10 +8,10 @@ O trabalho tem como objetivo aplicar os conceitos de Data Science. Para isso os 
 
 ## Membros
 <ul align=center>
-<img src="FO/img/andre-moreira.jpg" alt="André" width="130" height="130">
-<img src="FO/img/eulle-araujo.png" alt="Eule" width="130" height="130">
-<img src="FO/img/fernando-maciel.jpg" alt="Fernando" width="130" height="130">
-<img src="FO/img/luis-andrade.jpg" alt="Luis" width="130" height="130">
+  <a href="https://github.com/andreLumor"><img src="FO/img/andre-moreira.jpg" alt="André" width="130" height="130"></a>
+ <a href="https://github.com/EulleSA"><img src="FO/img/eulle-araujo.png" alt="Eule" width="130" height="130"></a>
+ <a href="https://github.com/nandomaciel"><img src="FO/img/fernando-maciel.jpg" alt="Fernando" width="130" height="130"></a>
+ <a href="https://github.com/Luisandhttps://github.com/nandomacielradeA"><img src="FO/img/luis-andrade.jpg" alt="Luis" width="130" height="130"></a>
 </ul>
 
 # Abordagem

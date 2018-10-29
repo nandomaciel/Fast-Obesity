@@ -2,19 +2,26 @@
 
 O trabalho tem como objetivo aplicar os conceitos de Data Science. Para isso os datasets foram escolhidos visando demonstrar um dos grandes problemas de saúde do seculo XXI segundo a Organização Mundial da Saúde (OMS), que considera a obesidade como uma epidemia crescente, tendo como o estilo de vida moderno um dos grandes causadores desse problema. Com aumento crescente de redes de fast-food, alimentos processados, industrializados e a facilidade para se obter esses produtos. O trabalho consiste em demostrar relações entre as redes de fast-food e a obesidade presentes no E.U.A.
 
-## Apresentação
+## Apresentação e Notebook
+* [Slides](FO/FastObesity.pd)
+* [Notebook](FO/fastfoodXobesidade.ipynb)
 
 ## DataSets
  * [Obesity](https://data.world/us-hhs-gov/8e0ede43-eaa4-4a93-9f30-fb36b8245685)
  * [Fast Food Restaurants Across America](https://www.kaggle.com/datafiniti/fast-food-restaurants)
 
 ## Membros
-<ul align=center>
-  <a href="https://github.com/andreLumor"><img src="FO/img/andre-moreira.jpg" alt="André" width="130" height="130"></a>
- <a href="https://github.com/EulleSA"><img src="FO/img/eulle-araujo.png" alt="Eule" width="130" height="130"></a>
- <a href="https://github.com/nandomaciel"><img src="FO/img/fernando-maciel.jpg" alt="Fernando" width="130" height="130"></a>
- <a href="https://github.com/LuisandradeA"><img src="FO/img/luis-andrade.jpg" alt="Luis" width="130" height="130"></a>
-</ul>
+ <a href="https://github.com/andreLumor"><img src="FO/img/andre-moreira.jpg" alt="André" width="130" height="130"></a></br> <b>Nome:</b> André Luiz</br>
+ <b>E-mail:</b> andre_llm@hotmail.com<br>
+ <a href="https://github.com/EulleSA"><img src="FO/img/eulle-araujo.png" alt="Eule" width="130" height="130"></a></br>
+ <b>Nome:</b> Eulle Araújo</br>
+ <b>E-mail:</b> eulle100@gmail.com<br>
+ <a href="https://github.com/nandomaciel"><img src="FO/img/fernando-maciel.jpg" alt="Fernando" width="130" height="130"></a></br><b>Nome:</b> Fernando Maciel</br>
+ <b>E-mail:</b> nandormaciel@gmail.com</a><br>
+ <a href="https://github.com/LuisandradeA"><img src="FO/img/luis-andrade.jpg" alt="Luis" width="130" height="130"></a></br>
+ <b>Nome:</b> Luís Andrade</br>
+ <b>E-mail:</b> luisandrade_araujo@hotmail.com</br>
+
 
 # Abordagem
 * Limpando os Datasets

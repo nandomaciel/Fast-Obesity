@@ -3,7 +3,7 @@
 O trabalho tem como objetivo aplicar os conceitos de Data Science. Para isso os datasets foram escolhidos visando demonstrar um dos grandes problemas de saúde do seculo XXI segundo a Organização Mundial da Saúde (OMS), que considera a obesidade como uma epidemia crescente, tendo como o estilo de vida moderno um dos grandes causadores desse problema. Com aumento crescente de redes de fast-food, alimentos processados, industrializados e a facilidade para se obter esses produtos. O trabalho consiste em demostrar relações entre as redes de fast-food e a obesidade presentes no E.U.A.
 
 ## Apresentação e Notebook
-* [Slides](FO/FastObesity.pd)
+* [Slides](FO/FastObesity.pdf)
 * [Notebook](FO/fastfoodXobesidade.ipynb)
 
 ## DataSets
